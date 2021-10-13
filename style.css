@@ -1,0 +1,19 @@
+body{
+  display: block;
+  margin-left: 50%;
+  margin-top: 50%;
+}
+
+#btn{
+  background-color: green;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  color: gold;
+}
+
+#btn:hover{
+  font-weight: bold;
+  color:goldenrod;
+}
