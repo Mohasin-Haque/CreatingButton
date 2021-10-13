@@ -1,11 +1,13 @@
 body{
-  background-color: gold;
-  display: block;
-  margin-left: 50%;
-  margin-top: 50%;
+  background-color: gold;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 #btn{
+  
   background-color: green;
   margin: 2rem;
   padding: 1rem;
